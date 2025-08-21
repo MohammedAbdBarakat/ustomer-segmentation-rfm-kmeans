@@ -51,11 +51,7 @@ You can download the full dataset from the links above if you want to replicate 
 ├── README.md # Project documentation
 └── src/ # Source code (if modularized)
 
-yaml
-Copy
-Edit
 
----
 
 ## 🚀 How to Run
 
@@ -65,15 +61,11 @@ Edit
    cd customer-segmentation-rfm-kmeans
 Install dependencies:
 
-bash
-Copy
-Edit
+
 pip install -r requirements.txt
 Run the Jupyter notebook:
 
-bash
-Copy
-Edit
+
 jupyter notebook
 📈 Example Results
 Customers are segmented into distinct groups (e.g., high-value, loyal, new, at-risk).
