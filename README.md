@@ -7,7 +7,7 @@ The goal is to identify groups of customers based on purchasing behavior, which 
 
 ## 📊 Dataset
 
-The dataset used is the **[Online Retail Dataset](https://archive.ics.uci.edu/ml/datasets/online+retail)** from the UCI Machine Learning Repository (also available on [Kaggle](https://www.kaggle.com/datasets/lakshyaag/online-retail-dataset)).
+The dataset used is the **[Online Retail Dataset](https://archive.ics.uci.edu/ml/datasets/online+retail)** from the UCI Machine Learning Repository (also available on [Kaggle](https://www.kaggle.com/datasets/ulrikthygepedersen/online-retail-dataset)).
 
 - Transactions from a UK-based online retail company
 - Period: **December 2010 – December 2011**
