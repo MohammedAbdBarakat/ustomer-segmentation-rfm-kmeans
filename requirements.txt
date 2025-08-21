@@ -1,0 +1,14 @@
+# Core
+numpy
+pandas
+
+# Visualization
+matplotlib
+seaborn
+
+# Machine Learning / Clustering
+scikit-learn
+
+# Jupyter
+jupyter
+notebook
